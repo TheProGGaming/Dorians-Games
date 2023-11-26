@@ -2,6 +2,10 @@
 
 My last big project
 
+[The Subreddit](https://www.reddit.com/r/swordstuff/)
+
+[Discord Server](https://discord.gg/BMxe6D9CKv)
+
 ***Deploy With Netlify***
 
 (Around 50 games.)
